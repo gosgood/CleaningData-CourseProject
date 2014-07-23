@@ -3,34 +3,34 @@
 Variable List
 * Subject	(Integer):numeric ID of the subject
 * Activity (String): represents the type of activity being recorded - possible values are WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
-* timeBodyAccMeanX(Numeric): mean of mean of body linear acceleration in X direction
-* timeBodyAccMeanY			Numeric		mean of mean of body linear acceleration in Y direction
-* timeBodyAccMeanZ			Numeric		mean of mean of body linear acceleration in Z direction
-* timeBodyAccStdX				Numeric		mean of standard deviation of body linear acceleration in X direction
-* timeBodyAccStdY				Numeric		mean of standard deviation of body linear acceleration in Y direction
-* timeBodyAccStdZ				Numeric		mean of standard deviation of body linear acceleration in Z direction
-* timeGravityAccMeanX			Numeric		mean of mean of gravity acceleration in X direction
-* timeGravityAccMeanY			Numeric		mean of mean of gravity acceleration in Y direction	
-* timeGravityAccMeanZ			Numeric		mean of mean of gravity acceleration in Z direction
-* timeGravityAccStdX			Numeric		mean of standard deviation of gravity acceleration in X direction
-* timeGravityAccStdY			Numeric		mean of standard deviation of gravity acceleration in Y direction
-* timeGravityAccStdZ			Numeric		mean of standard deviation of gravity acceleration in Z direction
-* timeBodyAccJerkMeanX		Numeric		mean of mean of jerk signal of body acceleration in X direction
-* timeBodyAccJerkMeanY		Numeric		mean of mean of jerk signal of body acceleration in Y direction
-* timeBodyAccJerkMeanZ		Numeric		mean of mean of jerk signal of body acceleration in Z direction
-* timeBodyAccJerkStdX			Numeric		mean of standard deviation of jerk signal of body acceleration in X direction
-* timeBodyAccJerkStdY			Numeric		mean of standard deviation of jerk signal of body acceleration in Y direction
-* timeBodyAccJerkStdZ			Numeric		mean of standard deviation of jerk signal of body acceleration in Z direction
-* timeBodyGyroMeanX			Numeric		mean of mean of angular velocity in X direction
-* timeBodyGyroMeanY			Numeric		mean of mean of angular velocity in Y direction
-* timeBodyGyroMeanZ			Numeric		mean of mean of angular velocity in Z direction
-* timeBodyGyroStdX			Numeric		mean of standard deviation of angular velocity in X direction
-* timeBodyGyroStdY			Numeric		mean of standard deviation of angular velocity in Y direction
-* timeBodyGyroStdZ			Numeric		mean of standard deviation of angular velocity in Z direction
-* timeBodyGyroJerkMeanX		Numeric		mean of mean of jerk signal of angular velocity in X direction
-* timeBodyGyroJerkMeanY		Numeric		mean of mean of jerk signal of angular velocity in Y direction
-* timeBodyGyroJerkMeanZ		Numeric		mean of mean of jerk signal of angular velocity in Z direction
-* timeBodyGyroJerkStdX		Numeric		mean of standard deviation of jerk signal of angular velocity in X direction	
+* timeBodyAccMeanX (Numeric): mean of mean of body linear acceleration in X direction
+* timeBodyAccMeanY (Numeric):	mean of mean of body linear acceleration in Y direction
+* timeBodyAccMeanZ			(Numeric		mean of mean of body linear acceleration in Z direction
+* timeBodyAccStdX				(Numeric		mean of standard deviation of body linear acceleration in X direction
+* timeBodyAccStdY				(Numeric		mean of standard deviation of body linear acceleration in Y direction
+* timeBodyAccStdZ				(Numeric		mean of standard deviation of body linear acceleration in Z direction
+* timeGravityAccMeanX			(Numeric		mean of mean of gravity acceleration in X direction
+* timeGravityAccMeanY			(Numeric		mean of mean of gravity acceleration in Y direction	
+* timeGravityAccMeanZ			(Numeric		mean of mean of gravity acceleration in Z direction
+* timeGravityAccStdX			(Numeric		mean of standard deviation of gravity acceleration in X direction
+* timeGravityAccStdY			(Numeric		mean of standard deviation of gravity acceleration in Y direction
+* timeGravityAccStdZ			(Numeric		mean of standard deviation of gravity acceleration in Z direction
+* timeBodyAccJerkMeanX		(Numeric		mean of mean of jerk signal of body acceleration in X direction
+* timeBodyAccJerkMeanY		(Numeric		mean of mean of jerk signal of body acceleration in Y direction
+* timeBodyAccJerkMeanZ		(Numeric		mean of mean of jerk signal of body acceleration in Z direction
+* timeBodyAccJerkStdX			(Numeric		mean of standard deviation of jerk signal of body acceleration in X direction
+* timeBodyAccJerkStdY			(Numeric		mean of standard deviation of jerk signal of body acceleration in Y direction
+* timeBodyAccJerkStdZ			(Numeric		mean of standard deviation of jerk signal of body acceleration in Z direction
+* timeBodyGyroMeanX			(Numeric		mean of mean of angular velocity in X direction
+* timeBodyGyroMeanY			(Numeric		mean of mean of angular velocity in Y direction
+* timeBodyGyroMeanZ			(Numeric		mean of mean of angular velocity in Z direction
+* timeBodyGyroStdX			(Numeric		mean of standard deviation of angular velocity in X direction
+* timeBodyGyroStdY			(Numeric		mean of standard deviation of angular velocity in Y direction
+* timeBodyGyroStdZ			(Numeric		mean of standard deviation of angular velocity in Z direction
+* timeBodyGyroJerkMeanX		(Numeric		mean of mean of jerk signal of angular velocity in X direction
+* timeBodyGyroJerkMeanY		(Numeric		mean of mean of jerk signal of angular velocity in Y direction
+* timeBodyGyroJerkMeanZ		(Numeric		mean of mean of jerk signal of angular velocity in Z direction
+* timeBodyGyroJerkStdX		(Numeric		mean of standard deviation of jerk signal of angular velocity in X direction	
 * timeBodyGyroJerkStdY		Numeric		mean of standard deviation of jerk signal of angular velocity in Y direction	
 * timeBodyGyroJerkStdZ		Numeric		mean of standard deviation of jerk signal of angular velocity in Z direction	
 * timeBodyAccMagMean			Numeric		mean of mean of magnitude of body acceleration
