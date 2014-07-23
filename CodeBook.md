@@ -1,6 +1,6 @@
 ## Data Dictionary - SubjectActivityMeans.txt ##
 
-Variable List
+List of columns
 * Subject	(Integer):numeric ID of the subject
 * Activity (String): represents the type of activity being recorded - possible values are WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 * timeBodyAccMeanX (Numeric): mean of mean of body linear acceleration in X direction
