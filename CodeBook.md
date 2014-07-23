@@ -1,9 +1,8 @@
 ## Data Dictionary - SubjectActivityMeans.txt ##
 
-Variable					Type		Description
---------					----		-----------
-Subject						Integer		numeric ID of the subject
-Activity					String		represents the type of activity being recorded - possible values are WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+Variable List
+* Subject						Integer		numeric ID of the subject
+* Activity					String		represents the type of activity being recorded - possible values are WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 timeBodyAccMeanX			Numeric		mean of mean of body linear acceleration in X direction
 timeBodyAccMeanY			Numeric		mean of mean of body linear acceleration in Y direction
 timeBodyAccMeanZ			Numeric		mean of mean of body linear acceleration in Z direction
